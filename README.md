@@ -2,6 +2,9 @@
 
 A Streamlit-based interactive quiz application that allows users to test their knowledge on various subjects and topics.
 
+# Interactive Quiz App link:
+https://trush-studygame.streamlit.app/
+
 ## Features
 
 - Multiple subjects to choose from

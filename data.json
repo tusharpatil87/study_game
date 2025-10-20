@@ -1,0 +1,376 @@
+{
+  "English": {
+    "A Thing of Beauty": [
+  {
+    "question": "What does the poet mean by 'a bower quiet for us'?",
+    "options": ["A place full of flowers", "A dark cave", "A noisy forest", "A peaceful resting place"],
+    "answer": 3,
+    "explanation": "It refers to a peaceful and quiet place where one can rest."
+  },
+  {
+    "question": "Which literary device is used in 'Some shape of beauty moves away the pall'?",
+    "options": ["Metaphor", "Simile", "Alliteration", "Personification"],
+    "answer": 0,
+    "explanation": "The line uses metaphor to describe beauty lifting sadness."
+  },
+  {
+    "question": "What does beauty do for humans according to the poem?",
+    "options": ["Helps them sleep", "Brings joy and removes sadness", "Makes them rich", "Gives them power"],
+    "answer": 1,
+    "explanation": "Beauty brings joy and helps people overcome despair."
+  },
+  {
+    "question": "What is the tone of the poem?",
+    "options": ["Joyful", "Sarcastic", "Angry", "Melancholic"],
+    "answer": 0,
+    "explanation": "The tone is joyful and appreciative of beauty."
+  },
+  {
+    "question": "Which of the following is NOT mentioned as a source of beauty?",
+    "options": ["The ocean", "The stars", "The moon", "The sun"],
+    "answer": 0,
+    "explanation": "The ocean is not mentioned in the poem."
+  },
+  {
+    "question": "What does the poet say about the endless fountain of immortal drink?",
+    "options": ["It is bitter", "It is poisonous", "It is a source of joy", "It is a myth"],
+    "answer": 2,
+    "explanation": "It symbolizes eternal joy and beauty."
+  },
+  {
+    "question": "What is the central theme of the poem?",
+    "options": ["War", "Nature and beauty", "Technology", "Politics"],
+    "answer": 1,
+    "explanation": "The poem celebrates nature and beauty."
+  },
+  {
+    "question": "What does the poet mean by 'pall'?",
+    "options": ["A blanket", "A cloud", "A cover of gloom", "A curtain"],
+    "answer": 2,
+    "explanation": "‘Pall’ refers to gloom or sadness."
+  },
+  {
+    "question": "What kind of joy does beauty provide?",
+    "options": ["Temporary", "Eternal", "Imaginary", "Conditional"],
+    "answer": 1,
+    "explanation": "Beauty provides eternal joy."
+  },
+  {
+    "question": "Who is the poet of 'A Thing of Beauty'?",
+    "options": ["Robert Frost", "John Keats", "William Wordsworth", "Emily Dickinson"],
+    "answer": 1,
+    "explanation": "John Keats wrote the poem."
+  }
+],
+"The Inchcape Rock": [
+  {
+    "question": "What was the purpose of the bell on the Inchcape Rock?",
+    "options": ["To decorate the rock", "To summon sailors", "To warn ships of danger", "To attract tourists"],
+    "answer": 2,
+    "explanation": "The bell warned ships of the dangerous rock beneath the sea."
+  },
+  {
+    "question": "Who installed the bell on the Inchcape Rock?",
+    "options": ["Sir Ralph", "The Abbot of Aberbrothok", "The King", "A sailor"],
+    "answer": 1,
+    "explanation": "The Abbot of Aberbrothok installed the bell to protect sailors."
+  },
+  {
+    "question": "Why did Sir Ralph cut the bell from the rock?",
+    "options": ["He hated the Abbot", "He wanted to steal it", "He was jealous and malicious", "He thought it was useless"],
+    "answer": 2,
+    "explanation": "Sir Ralph was driven by jealousy and malice."
+  },
+  {
+    "question": "What happened to Sir Ralph’s ship at the end?",
+    "options": ["It reached the shore safely", "It sank after hitting the rock", "It was attacked by pirates", "It was saved by the bell"],
+    "answer": 1,
+    "explanation": "His ship sank after hitting the Inchcape Rock, which was no longer marked by the bell."
+  },
+  {
+    "question": "What is the central theme of the poem?",
+    "options": ["Revenge", "Justice and poetic irony", "Adventure", "Romance"],
+    "answer": 1,
+    "explanation": "The poem explores poetic justice and the consequences of evil deeds."
+  },
+  {
+    "question": "What poetic device is used in 'No stir in the air, no stir in the sea'?",
+    "options": ["Metaphor", "Alliteration", "Personification", "Simile"],
+    "answer": 1,
+    "explanation": "The repetition of the 's' sound is alliteration."
+  },
+  {
+    "question": "How does the poet describe the sea before the storm?",
+    "options": ["Calm and peaceful", "Rough and wild", "Frozen", "Polluted"],
+    "answer": 0,
+    "explanation": "The sea is described as calm and peaceful before the storm hits."
+  },
+  {
+    "question": "What is the tone of the poem?",
+    "options": ["Joyful", "Tragic", "Ironic and moralistic", "Angry"],
+    "answer": 2,
+    "explanation": "The tone is ironic and moralistic, emphasizing justice."
+  },
+  {
+    "question": "What lesson does the poem teach?",
+    "options": ["Be brave", "Do not trust strangers", "Evil deeds bring punishment", "Always follow orders"],
+    "answer": 2,
+    "explanation": "The poem teaches that evil actions eventually lead to punishment."
+  },
+  {
+    "question": "Who is the poet of 'The Inchcape Rock'?",
+    "options": ["William Wordsworth", "Robert Southey", "John Keats", "Samuel Coleridge"],
+    "answer": 1,
+    "explanation": "Robert Southey wrote the poem."
+  }
+],
+"The Sermon at Benares": [
+  {
+    "question": "Who delivered the sermon at Benares?",
+    "options": ["Jesus Christ", "Gautama Buddha", "Krishna", "Mahavira"],
+    "answer": 1,
+    "explanation": "Gautama Buddha delivered the sermon after attaining enlightenment."
+  },
+  {
+    "question": "What is the central theme of the sermon?",
+    "options": ["Revenge", "Death and suffering", "Love and compassion", "Wealth and success"],
+    "answer": 1,
+    "explanation": "The sermon focuses on the inevitability of death and how to overcome suffering."
+  },
+  {
+    "question": "What did Buddha say about the body?",
+    "options": ["It is eternal", "It is a source of joy", "It is mortal and subject to decay", "It is divine"],
+    "answer": 2,
+    "explanation": "Buddha taught that the body is mortal and subject to decay."
+  },
+  {
+    "question": "What example did Buddha use to explain suffering?",
+    "options": ["A sick man", "A grieving woman", "A poor farmer", "A dying king"],
+    "answer": 1,
+    "explanation": "He used the story of Kisa Gotami, a grieving mother, to explain suffering."
+  },
+  {
+    "question": "What did Kisa Gotami ask for?",
+    "options": ["A cure for her illness", "A medicine to bring her child back", "Money for food", "Shelter"],
+    "answer": 1,
+    "explanation": "She asked Buddha for medicine to revive her dead child."
+  },
+  {
+    "question": "What condition did Buddha give Kisa Gotami to get the medicine?",
+    "options": ["Bring a gold coin", "Bring a mustard seed from a house untouched by death", "Pray for 7 days", "Fast for a week"],
+    "answer": 1,
+    "explanation": "He asked her to bring a mustard seed from a house where no one had died."
+  },
+  {
+    "question": "What did Kisa Gotami realize after visiting many homes?",
+    "options": ["She was the only one suffering", "Death is universal", "People are cruel", "She should leave the village"],
+    "answer": 1,
+    "explanation": "She realized that death is universal and everyone suffers loss."
+  },
+  {
+    "question": "What is the ultimate goal in Buddhism according to the sermon?",
+    "options": ["Wealth", "Power", "Nirvana", "Rebirth"],
+    "answer": 2,
+    "explanation": "The ultimate goal is Nirvana—freedom from suffering and rebirth."
+  },
+  {
+    "question": "What does the sermon teach about attachment?",
+    "options": ["It brings joy", "It leads to suffering", "It is necessary", "It is divine"],
+    "answer": 1,
+    "explanation": "Attachment leads to suffering, according to Buddha’s teachings."
+  },
+  {
+    "question": "What is the tone of the sermon?",
+    "options": ["Angry", "Hopeful and compassionate", "Sarcastic", "Joyful"],
+    "answer": 1,
+    "explanation": "The tone is compassionate and offers hope through understanding."
+  }
+],
+"Amanda!": [
+  {
+    "question": "Why is Amanda being constantly corrected?",
+    "options": ["She is rebellious", "She is careless", "She is imaginative and dreamy", "She is disobedient"],
+    "answer": 2,
+    "explanation": "Amanda is imaginative and dreamy, which leads to constant correction."
+  },
+  {
+    "question": "What does Amanda imagine herself to be in one stanza?",
+    "options": ["A queen", "A mermaid", "A bird", "A princess"],
+    "answer": 1,
+    "explanation": "Amanda imagines herself as a mermaid drifting in the sea."
+  },
+  {
+    "question": "What does Amanda long for?",
+    "options": ["Freedom and peace", "Fame and popularity", "Money and power", "Friends and family"],
+    "answer": 0,
+    "explanation": "Amanda longs for freedom and peace from constant nagging."
+  },
+  {
+    "question": "What does Amanda imagine herself to be when she is tired of instructions?",
+    "options": ["A fairy", "A mermaid", "An orphan", "A dancer"],
+    "answer": 2,
+    "explanation": "She imagines herself as an orphan who can sit quietly and do nothing."
+  },
+  {
+    "question": "What is the tone of Amanda’s imagination?",
+    "options": ["Angry", "Joyful", "Peaceful and escapist", "Sarcastic"],
+    "answer": 2,
+    "explanation": "Her imagination reflects a peaceful and escapist tone."
+  },
+  {
+    "question": "What does Amanda’s parent worry about?",
+    "options": ["Amanda’s health", "Amanda’s behavior", "Amanda’s reputation", "Amanda’s studies"],
+    "answer": 2,
+    "explanation": "The parent worries that Amanda’s behavior will be judged by others."
+  },
+  {
+    "question": "What poetic device is used in Amanda’s imaginary scenes?",
+    "options": ["Metaphor", "Simile", "Imagery", "Alliteration"],
+    "answer": 2,
+    "explanation": "Imagery is used to depict Amanda’s dreamy escapes."
+  },
+  {
+    "question": "What does Amanda imagine herself to be in the final stanza?",
+    "options": ["A mermaid", "A fairy", "Rapunzel", "A queen"],
+    "answer": 2,
+    "explanation": "She imagines herself as Rapunzel living alone in a tower."
+  },
+  {
+    "question": "What does Amanda dislike the most?",
+    "options": ["Being alone", "Being corrected constantly", "Going to school", "Eating vegetables"],
+    "answer": 1,
+    "explanation": "Amanda dislikes being constantly corrected and nagged."
+  },
+  {
+    "question": "Who is the poet of 'Amanda!'?",
+    "options": ["Robin Klein", "Sarojini Naidu", "Kamala Das", "Emily Dickinson"],
+    "answer": 0,
+    "explanation": "Robin Klein wrote the poem."
+  }
+],
+"Animals": [
+  {
+    "question": "What does the poet admire most about animals?",
+    "options": ["Their strength", "Their honesty and simplicity", "Their appearance", "Their intelligence"],
+    "answer": 1,
+    "explanation": "The poet admires animals for their honesty and simplicity."
+  },
+  {
+    "question": "What do animals not do, according to the poet?",
+    "options": ["Eat food", "Sleep", "Complain about their condition", "Live in groups"],
+    "answer": 2,
+    "explanation": "Animals do not complain about their condition or fate."
+  },
+  {
+    "question": "What does the poet feel animals are better at than humans?",
+    "options": ["Building homes", "Expressing emotions", "Living peacefully", "Learning languages"],
+    "answer": 2,
+    "explanation": "Animals live peacefully and are content with their lives."
+  },
+  {
+    "question": "What do animals not do that humans often do?",
+    "options": ["Work hard", "Worship gods", "Sleep during the day", "Eat meat"],
+    "answer": 1,
+    "explanation": "Animals do not worship gods or follow religious rituals."
+  },
+  {
+    "question": "What does the poet say animals do not suffer from?",
+    "options": ["Illness", "Hunger", "Guilt", "Loneliness"],
+    "answer": 2,
+    "explanation": "Animals do not suffer from guilt or moral conflicts."
+  },
+  {
+    "question": "What does the poet wish to do with animals?",
+    "options": ["Train them", "Live among them", "Hunt them", "Study them"],
+    "answer": 1,
+    "explanation": "The poet wishes to live among animals and learn from them."
+  },
+  {
+    "question": "What does the poet imply about human society?",
+    "options": ["It is perfect", "It is corrupt and hypocritical", "It is peaceful", "It is simple"],
+    "answer": 1,
+    "explanation": "The poet criticizes human society for its hypocrisy and complexity."
+  },
+  {
+    "question": "What do animals not do that humans often boast about?",
+    "options": ["Their possessions", "Their ancestors", "Their achievements", "Their wealth"],
+    "answer": 1,
+    "explanation": "Animals do not boast about their ancestors or lineage."
+  },
+  {
+    "question": "What does the poet say animals do not lie awake worrying about?",
+    "options": ["Food", "Shelter", "Sins", "Weather"],
+    "answer": 2,
+    "explanation": "Animals do not worry about sins or moral failures."
+  },
+  {
+    "question": "Who is the poet of 'Animals'?",
+    "options": ["Robert Frost", "Walt Whitman", "William Blake", "Emily Dickinson"],
+    "answer": 1,
+    "explanation": "Walt Whitman wrote the poem."
+  }
+],
+"The Frog and the Nightingale": [
+  {
+    "question": "Where did the frog live?",
+    "options": ["In a pond", "In a forest", "In a bog", "In a tree"],
+    "answer": 2,
+    "explanation": "The frog lived in a bog and sang loudly every night."
+  },
+  {
+    "question": "How did the animals react to the frog’s singing?",
+    "options": ["They loved it", "They ignored it", "They were annoyed", "They sang along"],
+    "answer": 2,
+    "explanation": "The animals were annoyed by the frog’s croaking."
+  },
+  {
+    "question": "What was special about the nightingale’s singing?",
+    "options": ["It was loud", "It was melodious and beautiful", "It was funny", "It was silent"],
+    "answer": 1,
+    "explanation": "The nightingale’s singing was melodious and admired by all."
+  },
+  {
+    "question": "How did the frog respond to the nightingale’s arrival?",
+    "options": ["He welcomed her", "He praised her", "He criticized her and offered to train her", "He left the bog"],
+    "answer": 2,
+    "explanation": "The frog pretended to be a music expert and offered to train her."
+  },
+  {
+    "question": "What did the frog make the nightingale do?",
+    "options": ["Sing louder and longer", "Stop singing", "Leave the bog", "Sing only in the morning"],
+    "answer": 0,
+    "explanation": "The frog made her sing louder and longer, exhausting her."
+  },
+  {
+    "question": "Why did the nightingale follow the frog’s advice?",
+    "options": ["She was afraid", "She wanted fame", "She trusted him blindly", "She had no choice"],
+    "answer": 2,
+    "explanation": "The nightingale trusted the frog blindly, believing he was a mentor."
+  },
+  {
+    "question": "What happened to the nightingale in the end?",
+    "options": ["She became famous", "She left the bog", "She died from exhaustion", "She defeated the frog"],
+    "answer": 2,
+    "explanation": "The nightingale died from overexertion and stress."
+  },
+  {
+    "question": "What does the frog symbolize in the poem?",
+    "options": ["Wisdom", "Greed and manipulation", "Kindness", "Creativity"],
+    "answer": 1,
+    "explanation": "The frog symbolizes greed, manipulation, and jealousy."
+  },
+  {
+    "question": "What is the moral of the poem?",
+    "options": ["Trust everyone", "Sing loudly", "Don’t blindly follow others", "Be proud of your talent"],
+    "answer": 2,
+    "explanation": "The poem teaches not to blindly follow others and to value self-confidence."
+  },
+  {
+    "question": "Who is the poet of 'The Frog and the Nightingale'?",
+    "options": ["Vikram Seth", "Sarojini Naidu", "Robert Frost", "Emily Dickinson"],
+    "answer": 0,
+    "explanation": "Vikram Seth wrote the poem."
+  }
+]
+  }
+}
